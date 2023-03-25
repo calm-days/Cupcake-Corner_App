@@ -1,9 +1,4 @@
-//
-//  Cupcake_Corner_AppUITests.swift
-//  Cupcake Corner_AppUITests
-//
-//  Created by Roman Liukevich on 11/23/22.
-//
+
 
 import XCTest
 

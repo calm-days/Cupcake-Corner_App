@@ -1,9 +1,4 @@
-//
-//  Cupcake_Corner_AppTests.swift
-//  Cupcake Corner_AppTests
-//
-//  Created by Roman Liukevich on 11/23/22.
-//
+
 
 import XCTest
 @testable import Cupcake_Corner_App
